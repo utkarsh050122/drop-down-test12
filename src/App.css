@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  background-color: #64dae4;
+  margin: 0;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+}
